@@ -1,5 +1,4 @@
 Sathi
 Line 3
-Line 4 -you do it
-Line 5
 line 6 -update 1
+line 7 -Not now
