@@ -4,3 +4,4 @@ Haldia
 CSE-AIML
 #rd sem
 2nd year
+Computer Science
