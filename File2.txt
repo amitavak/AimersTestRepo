@@ -1,7 +1,5 @@
 Line 1 - update 1
 Line 2 - sathi update xxx
 Line 3
-Line 4
-Line 5
-Line 6
+Sathi Maiti
 Line 7 - sathi.update
